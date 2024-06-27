@@ -1,5 +1,6 @@
 # master_d_hse
 Data and code for my master's project on RNA sequencing of single cells
+Here is [description](https://docs.google.com/spreadsheets/d/1C1OhaVJ69VXW_aaltoc7pdU7SH3Kx6lPvGzDAZI_zsQ/edit?usp=sharing) of the marker genes
 
 ## Murine death pathways UMAPs
 (the files are stored in the directory `/TREM2KO`)
